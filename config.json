@@ -1,0 +1,5 @@
+{
+    "LLMsApiKey": "sk-zk29226d533ebb218a48c08a7b9cf834641671fb2e36aa3a",
+    "LLMsUrl": "https://api.zhizengzeng.com/v1/",
+    "LLMsModel": "deepseek-reasoner"
+}

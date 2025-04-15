@@ -1,0 +1,16 @@
+[
+    {
+        "name": "googleSearch",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "keyword": {
+                    "type": "string",
+                    "description": "用于 Google 搜索的关键词"
+                }
+            },
+            "required": ["keyword"]
+        },
+        "description": "使用 Google 搜索指定关键词，并返回搜索结果中的链接列表"
+    }
+]    
